@@ -32,4 +32,4 @@ This project is developed using Microsoft Excel to manage student grades and per
 ![Grades](screenshot2.png)
 
 ## 👨‍💻 Author
-Your Name
+GUNDA GOUTHAM
