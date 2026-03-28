@@ -26,5 +26,10 @@ This project is developed using Microsoft Excel to manage student grades and per
 - Reduces manual calculation errors
 - Easy grade management system
 
+## 📸 Screenshots
+
+![Data](screenshot1.png)
+![Grades](screenshot2.png)
+
 ## 👨‍💻 Author
 Your Name
