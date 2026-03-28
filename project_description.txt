@@ -1,0 +1,4 @@
+This project is a GradeBook system built in Excel.
+
+It tracks employees marks and calculates grades using formulas.
+Useful for demonstrating Excel skills for Data Analyst roles.
